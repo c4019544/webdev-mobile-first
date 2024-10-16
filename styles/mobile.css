@@ -1,3 +1,8 @@
+body
+{
+    background-color: #ffffff;
+}
+
 .container 
 {
     margin: auto;
@@ -61,13 +66,6 @@ nav ul li
     padding: 5px;
 }
 
-/* nav ul li a 
-{
-    font-weight: bold;
-    text-decoration: none;
-    color: #fff;
-    padding: 8px 0;
-} */
 
 nav ul li a 
 {
@@ -78,6 +76,7 @@ nav ul li a
     color: #fff;
     padding: 8px 0;
 }
+
 
 /* images */
 .resize-img
